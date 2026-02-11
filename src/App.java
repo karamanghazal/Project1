@@ -1,5 +1,7 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+       String city = "Amman";
+       System.out.println("I live in "+city);
+
     }
 }
